@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?><Annotations>
+  <Annotation about="*.likitech.com/*" timestamp="0x00064399f7c0ae20" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://likitech.com"/>
+  </Annotation>
+  <Annotation about="*.alnaqbipartners.com/*" timestamp="0x00064399f7ab9179" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://alnaqbipartners.com"/>
+  </Annotation>
+  <Annotation about="*.mrguild.com/*" timestamp="0x00064399f7969f28" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://mrguild.com"/>
+  </Annotation>
+  <Annotation about="www.demcointer.com/*" timestamp="0x00064399f77cf1ae" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://www.demcointer.com"/>
+  </Annotation>
+  <Annotation about="ai-office.jp/" timestamp="0x00064399c24568b6" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://ai-office.jp/"/>
+  </Annotation>
+  <Annotation about="*.5ch.net/*" timestamp="0x000641082551cad6" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="*.5ch.net"/>
+  </Annotation>
+  <Annotation about="*.hatena.ne.jp/*" timestamp="0x000641082478bc3b" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="*.hatena.ne.jp"/>
+  </Annotation>
+  <Annotation about="carview.yahoo.co.jp/" timestamp="0x000640ff17e76b73" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://carview.yahoo.co.jp/"/>
+  </Annotation>
+  <Annotation about="carview.yahoo.co.jp/*" timestamp="0x000640ff17e76b73" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://carview.yahoo.co.jp/*"/>
+  </Annotation>
+  <Annotation about="auctions.yahoo.co.jp/" timestamp="0x000640ff0fcf10f2" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://auctions.yahoo.co.jp/"/>
+  </Annotation>
+  <Annotation about="auctions.yahoo.co.jp/*" timestamp="0x000640ff0fcf10f2" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://auctions.yahoo.co.jp/*"/>
+  </Annotation>
+  <Annotation about="dunkleysdairy.com/" timestamp="0x000640c4e2d129c0" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://dunkleysdairy.com/"/>
+  </Annotation>
+  <Annotation about="dunkleysdairy.com/*" timestamp="0x000640c4e2d129c0" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://dunkleysdairy.com/*"/>
+  </Annotation>
+  <Annotation about="starkmexico.com/" timestamp="0x000640c4e06a9c02" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://starkmexico.com/"/>
+  </Annotation>
+  <Annotation about="starkmexico.com/*" timestamp="0x000640c4e06a9c02" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://starkmexico.com/*"/>
+  </Annotation>
+  <Annotation about="gunsartwork.com/" timestamp="0x000640c4df53f06f" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://gunsartwork.com/"/>
+  </Annotation>
+  <Annotation about="gunsartwork.com/*" timestamp="0x000640c4df53f06f" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://gunsartwork.com/*"/>
+  </Annotation>
+  <Annotation about="*.tiktok.com/*" timestamp="0x000640c4da35c5cb" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="*.tiktok.com/*"/>
+  </Annotation>
+  <Annotation about="*.chiebukuro.yahoo.co.jp/" timestamp="0x000640b92b025e9c" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="*.chiebukuro.yahoo.co.jp/"/>
+  </Annotation>
+  <Annotation about="*.chiebukuro.yahoo.co.jp/*" timestamp="0x000640b92b025e9c" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="*.chiebukuro.yahoo.co.jp/*"/>
+  </Annotation>
+  <Annotation about="*.livedoor.blog/" timestamp="0x000640b927f88b23" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="*.livedoor.blog/"/>
+  </Annotation>
+  <Annotation about="*.livedoor.blog/*" timestamp="0x000640b927f88b23" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="*.livedoor.blog/*"/>
+  </Annotation>
+  <Annotation about="www.excite.co.jp/news/" timestamp="0x000640b32832c6e0" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://www.excite.co.jp/news/"/>
+  </Annotation>
+  <Annotation about="www.excite.co.jp/news/*" timestamp="0x000640b32832c6e0" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://www.excite.co.jp/news/*"/>
+  </Annotation>
+  <Annotation about="news.nicovideo.jp/" timestamp="0x000640b326d3b8bd" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://news.nicovideo.jp/"/>
+  </Annotation>
+  <Annotation about="news.nicovideo.jp/*" timestamp="0x000640b326d3b8bd" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://news.nicovideo.jp/*"/>
+  </Annotation>
+  <Annotation about="news.nifty.com/" timestamp="0x000640b325b430f3" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://news.nifty.com/"/>
+  </Annotation>
+  <Annotation about="news.nifty.com/*" timestamp="0x000640b325b430f3" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://news.nifty.com/*"/>
+  </Annotation>
+  <Annotation about="news.infoseek.co.jp/" timestamp="0x000640b324ab28bf" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://news.infoseek.co.jp/"/>
+  </Annotation>
+  <Annotation about="news.infoseek.co.jp/*" timestamp="0x000640b324ab28bf" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://news.infoseek.co.jp/*"/>
+  </Annotation>
+  <Annotation about="detail.chiebukuro.yahoo.co.jp/" timestamp="0x000640603cd7eb9c" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://detail.chiebukuro.yahoo.co.jp/"/>
+  </Annotation>
+  <Annotation about="detail.chiebukuro.yahoo.co.jp/*" timestamp="0x000640603cd7eb9c" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://detail.chiebukuro.yahoo.co.jp/*"/>
+  </Annotation>
+  <Annotation about="*.autoc-one.jp/*" timestamp="0x0006402ee8566740" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://autoc-one.jp"/>
+  </Annotation>
+  <Annotation about="12snowboards.jp/" timestamp="0x00064012042270a5" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://12snowboards.jp/"/>
+  </Annotation>
+  <Annotation about="12snowboards.jp/*" timestamp="0x00064012042270a5" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://12snowboards.jp/*"/>
+  </Annotation>
+  <Annotation about="bukshisha.com/" timestamp="0x000640120166d4d2" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://bukshisha.com/"/>
+  </Annotation>
+  <Annotation about="bukshisha.com/*" timestamp="0x000640120166d4d2" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://bukshisha.com/*"/>
+  </Annotation>
+  <Annotation about="www.reddit.com/" timestamp="0x00064011fc8d40c9" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://www.reddit.com/"/>
+  </Annotation>
+  <Annotation about="www.reddit.com/*" timestamp="0x00064011fc8d40c9" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://www.reddit.com/*"/>
+  </Annotation>
+  <Annotation about="trevormilton.com/" timestamp="0x00064011fc7a3ec2" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://trevormilton.com/"/>
+  </Annotation>
+  <Annotation about="trevormilton.com/*" timestamp="0x00064011fc7a3ec2" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://trevormilton.com/*"/>
+  </Annotation>
+  <Annotation about="www.estampacionesjom.com/" timestamp="0x00064011f8aa1c1f" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://www.estampacionesjom.com/"/>
+  </Annotation>
+  <Annotation about="www.estampacionesjom.com/*" timestamp="0x00064011f8aa1c1f" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://www.estampacionesjom.com/*"/>
+  </Annotation>
+  <Annotation about="goodguyscayman.com/" timestamp="0x00064011f5bbfbb7" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://goodguyscayman.com/"/>
+  </Annotation>
+  <Annotation about="goodguyscayman.com/*" timestamp="0x00064011f5bbfbb7" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://goodguyscayman.com/*"/>
+  </Annotation>
+  <Annotation about="www.sobabugyo.jp/" timestamp="0x00064011ee7960d8" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://www.sobabugyo.jp/"/>
+  </Annotation>
+  <Annotation about="www.sobabugyo.jp/*" timestamp="0x00064011ee7960d8" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://www.sobabugyo.jp/*"/>
+  </Annotation>
+  <Annotation about="aikomi.co.jp/" timestamp="0x00064011ee6043ad" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://aikomi.co.jp/"/>
+  </Annotation>
+  <Annotation about="aikomi.co.jp/*" timestamp="0x00064011ee6043ad" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://aikomi.co.jp/*"/>
+  </Annotation>
+  <Annotation about="search.rakuten.co.jp/*" timestamp="0x00064011e82eeb89" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://search.rakuten.co.jp/*"/>
+  </Annotation>
+  <Annotation about="forestgate-camp.com/" timestamp="0x00064011da247fd3" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://forestgate-camp.com/"/>
+  </Annotation>
+  <Annotation about="forestgate-camp.com/*" timestamp="0x00064011da247fd3" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://forestgate-camp.com/*"/>
+  </Annotation>
+  <Annotation about="autocmcar.com/" timestamp="0x00064011d7cfd881" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://autocmcar.com/"/>
+  </Annotation>
+  <Annotation about="autocmcar.com/*" timestamp="0x00064011d7cfd881" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://autocmcar.com/*"/>
+  </Annotation>
+  <Annotation about="www.cosme.net/chieco/*" timestamp="0x00064007edf8a14d" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://www.cosme.net/chieco/*"/>
+  </Annotation>
+  <Annotation about="*.quora.com/*" timestamp="0x00064007e9f06eb1" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="quora.com/*"/>
+  </Annotation>
+  <Annotation about="h-navi.jp/qa/*" timestamp="0x00064007e7b2d591" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="h-navi.jp/qa/*"/>
+  </Annotation>
+  <Annotation about="*.planoi9.com/*" timestamp="0x00064006d7878ec5" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://planoi9.com/*"/>
+  </Annotation>
+  <Annotation about="*.robotixfaire.com/*" timestamp="0x00064006d51c061a" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="*.robotixfaire.com/*"/>
+  </Annotation>
+  <Annotation about="*.uk-craft.co.jp/*" timestamp="0x00064006c1850f87" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="uk-craft.co.jp"/>
+  </Annotation>
+  <Annotation about="*.shizu-kid.com/*" timestamp="0x00064006c1785e32" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="shizu-kid.com"/>
+  </Annotation>
+  <Annotation about="*.sobabugyo.jp/*" timestamp="0x00064006c13ceb48" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="sobabugyo.jp"/>
+  </Annotation>
+  <Annotation about="*.a1amber.com/*" timestamp="0x00064006a83832fa" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="a1amber.com"/>
+  </Annotation>
+  <Annotation about="*.lcaqmd.net/*" timestamp="0x00064006a55b7940" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="lcaqmd.net"/>
+  </Annotation>
+  <Annotation about="*.yahoo.co.jp/*/chiebukuro/*" timestamp="0x0006400696ade0c4" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="*.yahoo.co.jp/*/chiebukuro/*"/>
+  </Annotation>
+  <Annotation about="*.goo-net.com/cgi-bin/fsearch/*" timestamp="0x0006400692f8071a" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="*.goo-net.com/cgi-bin/fsearch/*"/>
+  </Annotation>
+  <Annotation about="*.carsensor.net/usedcar/*" timestamp="0x000640068dfd5a4b" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="*.carsensor.net/usedcar/*"/>
+  </Annotation>
+  <Annotation about="*.cookpad.com/*" timestamp="0x0006400666b61f05" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="cookpad.com"/>
+  </Annotation>
+  <Annotation about="*.reddit.com/*" timestamp="0x000640065d723275" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="reddit.com"/>
+  </Annotation>
+  <Annotation about="chiebukuro.yahoo.co.jp/*" timestamp="0x00063ec3edcff58b" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="chiebukuro.yahoo.co.jp"/>
+  </Annotation>
+  <Annotation about="*.palomablancahotel.com/*" timestamp="0x00063e3f851e6f46" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="palomablancahotel.com"/>
+  </Annotation>
+  <Annotation about="*.learning-gym.com/*" timestamp="0x00063e3f802cf465" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="learning-gym.com"/>
+  </Annotation>
+  <Annotation about="*.thegroupforwomen.com/*" timestamp="0x00063e3f8018dde7" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="thegroupforwomen.com"/>
+  </Annotation>
+  <Annotation about="*.stockx.com/*" timestamp="0x00063e3f4c09e3dc" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="stockx.com"/>
+  </Annotation>
+  <Annotation about="*.bukshisha.com/*" timestamp="0x00063e3eb1ee7619" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="bukshisha.com"/>
+  </Annotation>
+  <Annotation about="*.lisse.co.jp/*" timestamp="0x00063e3eaef34282" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="lisse.co.jp"/>
+  </Annotation>
+  <Annotation about="*.glytimefoods.com/*" timestamp="0x00063e3ead0d5f41" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="glytimefoods.com"/>
+  </Annotation>
+  <Annotation about="*.revnabio.com/*" timestamp="0x00063e3eaa84ca77" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="revnabio.com"/>
+  </Annotation>
+  <Annotation about="*.cz/*" timestamp="0x00063e3ea84b10de" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="*.cz/*"/>
+  </Annotation>
+  <Annotation about="*.me/*" timestamp="0x00063e3ea6ffeaff" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="*.me/*"/>
+  </Annotation>
+  <Annotation about="*.pe/*" timestamp="0x00063e3e9dec828a" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="*.pe/*"/>
+  </Annotation>
+  <Annotation about="*.vasturemedy.com/*" timestamp="0x00063e3e9b9f1d89" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="vasturemedy.com"/>
+  </Annotation>
+  <Annotation about="*.4dpath.com/*" timestamp="0x00063e3e96abffb9" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="4dpath.com"/>
+  </Annotation>
+  <Annotation about="*.farmaciapelizzo.it/*" timestamp="0x00063e3e8e5b96cb" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="farmaciapelizzo.it"/>
+  </Annotation>
+  <Annotation about="*.danivet.com/*" timestamp="0x00063e3e8bf4074d" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="danivet.com"/>
+  </Annotation>
+  <Annotation about="*.jin-kor.com/*" timestamp="0x00063e3e89fb048e" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="jin-kor.com"/>
+  </Annotation>
+  <Annotation about="*.airtechindia.com/*" timestamp="0x00063e3e84f88b53" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="airtechindia.com"/>
+  </Annotation>
+  <Annotation about="*.cogir.net/*" timestamp="0x00063df2d37e84bd" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="cogir.net/*"/>
+  </Annotation>
+  <Annotation about="*.dcauditor.org/*" timestamp="0x00063df2d1e0ba6a" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="dcauditor.org"/>
+  </Annotation>
+  <Annotation about="*.centrofranchising.com/*" timestamp="0x00063df0fd7d9739" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="centrofranchising.com"/>
+  </Annotation>
+  <Annotation about="*.draillard.net/*" timestamp="0x00063db2dfa2a830" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="draillard.net"/>
+  </Annotation>
+  <Annotation about="*.tokyojh.com/*" timestamp="0x00063db2ddf4993b" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="tokyojh.com"/>
+  </Annotation>
+  <Annotation about="*.igrejaamorecuidado.net/*" timestamp="0x00063db2be100cf1" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="igrejaamorecuidado.net"/>
+  </Annotation>
+  <Annotation about="*.reddit.com/*ja" timestamp="0x00063d6bbf710e1b" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="*.reddit.com/*ja"/>
+  </Annotation>
+  <Annotation about="www.dodepecho.com/*" timestamp="0x000639ab37548352" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="www.dodepecho.com"/>
+  </Annotation>
+  <Annotation about="*.warkwyn.com/*" timestamp="0x000639ab3740fb1b" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="warkwyn.com"/>
+  </Annotation>
+  <Annotation about="*.t-y-k.co.jp/*" timestamp="0x000639ab372c7215" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="t-y-k.co.jp"/>
+  </Annotation>
+  <Annotation about="taramu.chillout.jp/*" timestamp="0x000639ab37174ca7" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="taramu.chillout.jp"/>
+  </Annotation>
+  <Annotation about="robot.pref.aichi.jp/*" timestamp="0x000639ab3700b49b" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="robot.pref.aichi.jp"/>
+  </Annotation>
+  <Annotation about="*.hoshizaki-shonan.co.jp/*" timestamp="0x000639ab36ea0db2" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="hoshizaki-shonan.co.jp"/>
+  </Annotation>
+  <Annotation about="*.hablametodo.com/*" timestamp="0x000639ab36d5d7db" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="hablametodo.com"/>
+  </Annotation>
+  <Annotation about="*.dodepecho.com/*" timestamp="0x000639ab36bedb0d" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="dodepecho.com"/>
+  </Annotation>
+  <Annotation about="*.core-fit.jp/*" timestamp="0x000639ab36a7ae9f" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="core-fit.jp"/>
+  </Annotation>
+  <Annotation about="*.chillout.jp/*" timestamp="0x000639ab36923d9b" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="chillout.jp"/>
+  </Annotation>
+  <Annotation about="*.antaurenaiwayo.com/*" timestamp="0x000639ab367cc618" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="antaurenaiwayo.com"/>
+  </Annotation>
+  <Annotation about="*.xplomine.com/*" timestamp="0x000639a2e625dc82" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="xplomine.com"/>
+  </Annotation>
+  <Annotation about="*.tabelog.com/*" timestamp="0x000637fb15dd7be9" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="tabelog.com"/>
+  </Annotation>
+  <Annotation about="*.obentodeli.jp/*" timestamp="0x000637fb12acb71f" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="obentodeli.jp"/>
+  </Annotation>
+  <Annotation about="*.br/" timestamp="0x000637faeba6b6bd" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="*.br/"/>
+  </Annotation>
+  <Annotation about="*.br/*" timestamp="0x000637faeba6b6bd" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="*.br/*"/>
+  </Annotation>
+  <Annotation about="*.bandai-hobby.net/*" timestamp="0x000637f8993df8ba" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="bandai-hobby.net"/>
+  </Annotation>
+  <Annotation about="news.livedoor.com/*" timestamp="0x000637e4c93053f9" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="news.livedoor.com"/>
+  </Annotation>
+  <Annotation about="topics.smt.docomo.ne.jp/*" timestamp="0x000637e4c75ae08b" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="topics.smt.docomo.ne.jp"/>
+  </Annotation>
+  <Annotation about="*.mercari.com/*" timestamp="0x000637c0aa7a9e24" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="*.mercari.com"/>
+  </Annotation>
+  <Annotation about="*.felissimo.co.jp/*" timestamp="0x000637c0a4fda65f" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="felissimo.co.jp"/>
+  </Annotation>
+  <Annotation about="item.rakuten.co.jp/*" timestamp="0x000637c0a3c3c70a" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="item.rakuten.co.jp"/>
+  </Annotation>
+  <Annotation about="search.rakuten.co.jp/*" timestamp="0x000637c09fdb4d87" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="search.rakuten.co.jp"/>
+  </Annotation>
+  <Annotation about="suumo.jp/" timestamp="0x000637bbd218a838" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="suumo.jp/"/>
+  </Annotation>
+  <Annotation about="suumo.jp/*" timestamp="0x000637bbd218a838" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="suumo.jp/*"/>
+  </Annotation>
+  <Annotation about="*.athome.co.jp/" timestamp="0x000637bbd025cbf4" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="*.athome.co.jp/"/>
+  </Annotation>
+  <Annotation about="*.athome.co.jp/*" timestamp="0x000637bbd025cbf4" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="*.athome.co.jp/*"/>
+  </Annotation>
+  <Annotation about="*.msn.com/*" timestamp="0x000637b45ec5ff3d" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="*.msn.com"/>
+  </Annotation>
+  <Annotation about="*.smt.docomo.ne.jp/" timestamp="0x000637b45ce2ac7f" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="*.smt.docomo.ne.jp/"/>
+  </Annotation>
+  <Annotation about="*.smt.docomo.ne.jp/*" timestamp="0x000637b45ce2ac7f" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="*.smt.docomo.ne.jp/*"/>
+  </Annotation>
+  <Annotation about="finance.yahoo.co.jp/*" timestamp="0x000637b45c085d6f" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="finance.yahoo.co.jp"/>
+  </Annotation>
+  <Annotation about="*.newspicks.com/*" timestamp="0x000637b44bc4042e" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="newspicks.com"/>
+  </Annotation>
+  <Annotation about="*.news.goo.ne.jp/*" timestamp="0x000637b44a321f7a" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="*.news.goo.ne.jp"/>
+  </Annotation>
+  <Annotation about="news.goo.ne.jp/" timestamp="0x000637b4492ffc8c" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="news.goo.ne.jp/"/>
+  </Annotation>
+  <Annotation about="news.goo.ne.jp/*" timestamp="0x000637b4492ffc8c" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="news.goo.ne.jp/*"/>
+  </Annotation>
+  <Annotation about="gooddo.jp/" timestamp="0x000637aec42f32d1" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="gooddo.jp/"/>
+  </Annotation>
+  <Annotation about="gooddo.jp/*" timestamp="0x000637aec42f32d1" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="gooddo.jp/*"/>
+  </Annotation>
+  <Annotation about="yorozoonews.jp/" timestamp="0x000637ad41010ee2" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="yorozoonews.jp/"/>
+  </Annotation>
+  <Annotation about="yorozoonews.jp/*" timestamp="0x000637ad41010ee2" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="yorozoonews.jp/*"/>
+  </Annotation>
+  <Annotation about="news.goo.ne.jp/*" timestamp="0x000637ad3dc8491a" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="news.goo.ne.jp"/>
+  </Annotation>
+  <Annotation about="dot.asahi.com/*" timestamp="0x000637ad3b8283bf" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="dot.asahi.com"/>
+  </Annotation>
+  <Annotation about="*.job-medley.com/*" timestamp="0x000637ad34e60abe" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="job-medley.com"/>
+  </Annotation>
+  <Annotation about="news.yahoo.co.jp/*" timestamp="0x000637ad2f98ff83" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="news.yahoo.co.jp"/>
+  </Annotation>
+  <Annotation about="*.dailyshincho.jp/*" timestamp="0x000637ad2bc5596f" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="dailyshincho.jp"/>
+  </Annotation>
+  <Annotation about="*.blogimg.jp/*" timestamp="0x00063799c6898bfc" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="blogimg.jp"/>
+  </Annotation>
+  <Annotation about="*.study-z.net/*" timestamp="0x00063799c0366438" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="study-z.net"/>
+  </Annotation>
+  <Annotation about="*.trip.com/*" timestamp="0x00063799ba377af8" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="trip.com"/>
+  </Annotation>
+  <Annotation about="*.lemon8-app.com/*" timestamp="0x0006374f304b70fc" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="lemon8-app.com/*"/>
+  </Annotation>
+  <Annotation about="komachi.yomiuri.co.jp/*" timestamp="0x000635bc014295d3" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://komachi.yomiuri.co.jp/*"/>
+  </Annotation>
+  <Annotation about="*.chiebukuro.yahoo.co.jp/*" timestamp="0x000635bbea9d0638" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="*.chiebukuro.yahoo.co.jp/*"/>
+  </Annotation>
+  <Annotation about="*.jp/*" timestamp="0x0006343b8362a87c" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="*.jp"/>
+  </Annotation>
+  <Annotation about="*.post/*" timestamp="0x0006343b834d443a" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="*.post"/>
+  </Annotation>
+  <Annotation about="*.tel/*" timestamp="0x0006343b832197f6" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="*.tel"/>
+  </Annotation>
+  <Annotation about="*.asia/*" timestamp="0x0006343b830b83d7" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="*.asia"/>
+  </Annotation>
+  <Annotation about="*.cat/*" timestamp="0x0006343b82f8c579" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="*.cat"/>
+  </Annotation>
+  <Annotation about="*.mobi/*" timestamp="0x0006343b82e5ff0a" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="*.mobi"/>
+  </Annotation>
+  <Annotation about="*.travel/*" timestamp="0x0006343b82d00a8e" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="*.travel"/>
+  </Annotation>
+  <Annotation about="*.jobs/*" timestamp="0x0006343b82a89f8f" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="*.jobs"/>
+  </Annotation>
+  <Annotation about="*.coop/*" timestamp="0x0006343b828fd877" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="*.coop"/>
+  </Annotation>
+  <Annotation about="*.aero/*" timestamp="0x0006343b827dc38f" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="*.aero"/>
+  </Annotation>
+  <Annotation about="*.museum/*" timestamp="0x0006343b82650119" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="*.museum"/>
+  </Annotation>
+  <Annotation about="*.pro/*" timestamp="0x0006343b824f6a97" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="*.pro"/>
+  </Annotation>
+  <Annotation about="*.name/*" timestamp="0x0006343b8238d931" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="*.name"/>
+  </Annotation>
+  <Annotation about="*.biz/*" timestamp="0x0006343b82254806" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="*.biz"/>
+  </Annotation>
+  <Annotation about="*.info/*" timestamp="0x0006343b82105357" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="*.info"/>
+  </Annotation>
+  <Annotation about="*.int/*" timestamp="0x0006343b81fdf5f5" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="*.int"/>
+  </Annotation>
+  <Annotation about="*.mil/*" timestamp="0x0006343b81c08ef8" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="*.mil"/>
+  </Annotation>
+  <Annotation about="*.gov/*" timestamp="0x0006343b81ab655b" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="*.gov"/>
+  </Annotation>
+  <Annotation about="*.edu/*" timestamp="0x0006343b8195f69a" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="*.edu"/>
+  </Annotation>
+  <Annotation about="*.org/*" timestamp="0x0006343b818069a4" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="*.org"/>
+  </Annotation>
+  <Annotation about="*.net/*" timestamp="0x0006343b8173fbcc" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="*.net"/>
+  </Annotation>
+  <Annotation about="*.com/*" timestamp="0x0006343b81380c2a" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="*.com"/>
+  </Annotation>
+</Annotations>
